@@ -1,0 +1,12 @@
+.nav-pill .nav-link{
+    color: grey;
+}
+
+.nav-pill .nav-link.active{
+    color: blue;
+}
+
+.tamaño{
+    height: 30vw !important;
+    object-fit: cover !important;
+}
